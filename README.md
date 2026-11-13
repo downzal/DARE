@@ -1,4 +1,4 @@
 # DARE
 DARE is an unreleased "engine" (large, universal framework) for ROBLOX, made by downzal.
 
-*Visit [DARE Docs](https://www.youtube.com)*
+*Visit [the DARE documentation](https://www.youtube.com) for more details.*
