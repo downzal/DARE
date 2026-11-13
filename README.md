@@ -1,4 +1,4 @@
-[Logo](images/logo.png)
+![Logo](images/logo.png)
 
 DARE is an unreleased "engine" (large, universal framework) for ROBLOX, made by downzal.
 
